@@ -1,4 +1,4 @@
-# Task25-Laravel Framework Basics
+# Task25-Laravel Framework Basics Research
 
 A simple research task to understand the Laravel framework, its MVC architecture,
 request lifecycle, folder structure, and core concepts before building projects.
